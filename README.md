@@ -1,6 +1,6 @@
 # LLMNR/NBT-NS Poisoning & Credential Capture Tool
 
-## ⚠️ Disclaimer
+##  Disclaimer
 **This tool is intended for educational purposes and authorized penetration testing only.**  
 Ensure you have explicit written permission from the network owner before deploying this script. Unauthorized use on networks you do not own or have permission to test is illegal.
 
